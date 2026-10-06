@@ -1,0 +1,19 @@
+Simulation Time: 600 seconds
+Traffic Pattern: fixed_one
+Rates file: rates_main_st.txt
+
+Results:
+ Road  Passed Waiting
+North     149     150
+ East      99       0
+South     120     179
+ West      59      15
+
+Average Wait Time: 128.02 seconds
+Maximum Wait Time: 300 seconds
+
+The front car for each road has been waiting for:
+North: 300 seconds
+East: 0 seconds
+South: 358 seconds
+West: 120 seconds

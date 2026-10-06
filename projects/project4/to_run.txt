@@ -1,0 +1,10 @@
+rate_main_st.txt fixed_one 600
+rate_main_st.txt fixed_pair 600
+rate_main_st.txt check 600
+rate_main_st.txt longest 600
+rate_main_st.txt fixed_one 600 1 200
+rates.txt fixed_one 600
+rates.txt fixed_pair 600
+rates.txt check 600
+rates.txt longest 600
+rates.txt fixed_one 600 1 200

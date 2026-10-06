@@ -1,0 +1,20 @@
+Simulation Time: 600 seconds
+Traffic Pattern: fixed_one
+Rates file: rates.txt
+Emergency vehicle at t = 200
+
+Results:
+ Road  Passed Waiting
+North     149     150
+ East     159      40
+South     140     159
+ West      80     119
+
+Average Wait Time: 156.16 seconds
+Maximum Wait Time: 338 seconds
+
+The front car for each road has been waiting for:
+North: 300 seconds
+East: 120 seconds
+South: 318 seconds
+West: 357 seconds

@@ -1,0 +1,12 @@
+int ConvertScore(float score): take in a score for a project and return a value corresponding to ME(0), RN(1), or NG(2)
+void printSummary(float cmpPoints, int projectVals[3]): take in CMP total and number of ME/RN/NG, print summary of grade and information about raising the grade
+float subtractMinZero(float a, float b): helper function for common calculation, subtracts b from a, returning 0 if the result would be negative
+
+processes in main:
+1: get total canvas points
+2: get project scores
+2.1: save each project score to a project total variable
+2.2: ConvertScore() on each project score and total ME/RN/NGs received
+(Note: for 1 and 2, input should be checked to be a number in the acceptable range, reprompt if not)
+
+3: printSummary()

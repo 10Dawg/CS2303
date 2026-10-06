@@ -1,0 +1,11 @@
+NUM_CONVERSIONS 10
+1 foot 12 inch
+1 mile 5280 feet
+1 kilometer 1000 meter
+1 meter 100 centimeter
+1 inch 2.54 centimeter
+1 pound 16 ounce
+1 kilogram 1000 gram
+1 ton 2000 pound
+1 liter 1000 milliliter
+1 gallon 3.785 liter

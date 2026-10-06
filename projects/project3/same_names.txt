@@ -1,0 +1,15 @@
+NUM_NAMES 14
+foot feet ft
+inch inches in
+mile miles mi
+kilometer kilometers km
+meter meters m
+centimeter centimeters cm
+pound pounds lb
+ounce ounces oz
+kilogram kilograms kg
+gram grams g
+ton tons tn
+liter liters L
+milliliter milliliters mL
+gallon gallons gal

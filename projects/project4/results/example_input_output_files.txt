@@ -1,0 +1,21 @@
+command arguments ----> output file
+rates_closed.txt fixed_one 600 --> closed_fixed_out.txt
+rates_closed.txt fixed_pair 600 --> closed_pair_out.txt
+rates_closed.txt check 600 --> closed_check_out.txt
+rates_closed.txt longest 600 --> closed_longest_out.txt
+rates_closed.txt fixed_one 600 1 200 --> closed_fixed_emerg.txt
+rates.txt fixed_one 600 --> rates_fixed_out.txt
+rates.txt fixed_pair 600 --> rates_pair_out.txt
+rates.txt check 600 --> rates_check_out.txt
+rates.txt longest 600 --> rates_longest_out.txt
+rates.txt fixed_one 600 1 200 --> rates_emerg_out.txt
+rates_main_st.txt fixed_one 600 --> main_fixed_out.txt
+rates_main_st.txt fixed_pair 600 --> main_pair_out.txt
+rates_main_st.txt check 600 --> main_check_out.txt
+rates_main_st.txt longest 600 --> main_longest_out.txt
+rates_main_st.txt fixed_pair 600 1 75 --> main_emerg_out.txt
+rates_closed.txt fixed_one 475 --> closed_fixed_out.txt
+rates_closed.txt fixed_pair 475 --> closed_pair_out.txt
+rates_closed.txt check 475 --> closed_check_out.txt
+rates_closed.txt longest 475 --> closed_longest_out.txt
+rates_closed.txt fixed_one 475 1 10 --> closed_emerg_out.txt
